@@ -5,7 +5,7 @@ client.login("TOKEN");
 
 client.on("ready", async () => {
 
-    console.log(`✅ Bot lit !`);
+    console.log(`✅ Bot on !`);
 });
 
 

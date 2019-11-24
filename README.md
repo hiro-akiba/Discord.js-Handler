@@ -20,7 +20,7 @@ module.exports.config = {
 }
 ```
 
-be noted that in : 
+Be noted that in : 
 
 ```js
 name: "NAME", //name

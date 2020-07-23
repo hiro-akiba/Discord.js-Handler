@@ -28,4 +28,4 @@ aliases: ["ALIASES"] //aliases
 ```
 The name of the command cannot contain spaces, replace the spaces with `-` or other.
 
-This is used with [Discord.js](https://www.npmjs.com/package/discord.js).
+This is used with [discord.js](https://www.npmjs.com/package/discord.js).

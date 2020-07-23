@@ -26,6 +26,7 @@ client.on("message", async message => {
 
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
+
 fs.readdir("./commands/", (err, files) => {
   let jsfile = files.filter(f => f.split(".").pop() === "js");
   if (jsfile.length <= 0) {
